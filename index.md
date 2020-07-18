@@ -7,5 +7,4 @@ layout: layout.html
       {{ book.data.title }}
     </a>
   </li>
-{%- endfor -%}
 </ul>
