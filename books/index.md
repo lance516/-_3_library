@@ -3,7 +3,7 @@ layout: layout.html
 ---
 
 <ul>
-{%- for book in collections.books reversed -%}
+{%- for book in collections.book reversed -%}
   <li>
     <a href="{{book.url}}">
       {{ book.data.title }}
