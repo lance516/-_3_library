@@ -4,7 +4,7 @@ layout: layout.html
 <html>
   <head>
     <title>
-    contact us
+    thank you
     </title>
   </head>
   <body>
