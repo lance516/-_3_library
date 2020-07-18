@@ -2,6 +2,13 @@
 layout: layout.html
 ---
 
+<html>
+  <head>
+    <title>
+    home
+    </title>
+  </head>
+  <body>
 <ul>
 {%- for book in collections.book reversed -%}
   <li>
@@ -11,3 +18,5 @@ layout: layout.html
   </li>
   {%- endfor -%}
 </ul>
+  </body>
+  </html>
